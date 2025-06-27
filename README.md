@@ -1,3 +1,5 @@
+![main_figure](https://raw.githubusercontent.com/gally16/LLM-Jailbreaking-Guide/refs/heads/main/main_figure.png)
+
 原帖：
 https://www.reddit.com/r/ChatGPTJailbreak/
 
