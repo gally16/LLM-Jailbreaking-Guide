@@ -3,7 +3,7 @@
 原帖：
 https://www.reddit.com/r/ChatGPTJailbreak/
 
-###越狱存在封号风险
+##越狱存在封号风险
 
 <div class="note note-primary">
 <p><strong>🎯 特别致谢</strong></p>
