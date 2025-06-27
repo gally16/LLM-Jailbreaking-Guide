@@ -1,25 +1,5 @@
----
-title: "🌟 大型语言模型解锁指南 2025 - 探索AI的无限边界"
-date: 2025-06-27 12:00:00
-updated: 2025-06-27 12:00:00
-tags:
-  - AI
-  - LLM
-  - 越狱技术
-  - ChatGPT
-  - Claude
-  - Gemini
-  - DeepSeek
-  - QWEN
-  - Grok
-categories:
-  - AI技术
-  - 深度指南
-  - 模型解锁
-description: "最全面的大语言模型越狱指南，涵盖ChatGPT、Claude、Gemini等主流AI模型的专业解锁方法与高级技巧"
-keywords: "AI越狱,LLM解锁,ChatGPT破解,Claude越狱,Gemini解锁,人工智能,模型破解,提示工程"
-cover: https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop
----
+原帖：
+https://www.reddit.com/r/ChatGPTJailbreak/
 
 <div class="note note-primary">
 <p><strong>🎯 特别致谢</strong></p>
